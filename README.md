@@ -39,4 +39,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-k
 ## Contact us
 
 Email Us: support@minimals.cc
-Emails1231krisa8
+Emails1231krisa9
